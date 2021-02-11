@@ -1,0 +1,252 @@
+>> mpirun --hostfile hostfile -np 25 ./lb1 25 5
+proc_num = 25, M = 5
+bypass(0) > process(0) sended to process (1)
+bypass(0) > process (1) received a message from process (0): 5
+bypass(0) > process(1) sended to process (2)
+bypass(0) > process (2) received a message from process (1): 5
+bypass(0) > process(2) sended to process (3)
+bypass(0) > process (3) received a message from process (2): 5
+bypass(0) > process(3) sended to process (4)
+bypass(0) > process (4) received a message from process (3): 5
+bypass(0) > process(4) sended to process (5)
+bypass(0) > process (5) received a message from process (4): 5
+bypass(0) > process(5) sended to process (6)
+bypass(0) > process (6) received a message from process (5): 5
+bypass(0) > process(6) sended to process (7)
+bypass(0) > process (7) received a message from process (6): 5
+bypass(0) > process(7) sended to process (8)
+bypass(0) > process (8) received a message from process (7): 5
+bypass(0) > process(8) sended to process (9)
+bypass(0) > process (9) received a message from process (8): 5
+bypass(0) > process(9) sended to process (10)
+bypass(0) > process (10) received a message from process (9): 5
+bypass(0) > process(10) sended to process (11)
+bypass(0) > process (11) received a message from process (10): 5
+bypass(0) > process(11) sended to process (12)
+bypass(0) > process (12) received a message from process (11): 5
+bypass(0) > process(12) sended to process (13)
+bypass(0) > process (13) received a message from process (12): 5
+bypass(0) > process(13) sended to process (14)
+bypass(0) > process (14) received a message from process (13): 5
+bypass(0) > process(14) sended to process (15)
+bypass(0) > process (15) received a message from process (14): 5
+bypass(0) > process(15) sended to process (16)
+bypass(0) > process (16) received a message from process (15): 5
+bypass(0) > process(16) sended to process (17)
+bypass(0) > process (17) received a message from process (16): 5
+bypass(0) > process(17) sended to process (18)
+bypass(0) > process (18) received a message from process (17): 5
+bypass(0) > process(18) sended to process (19)
+bypass(0) > process (19) received a message from process (18): 5
+bypass(0) > process(19) sended to process (20)
+bypass(0) > process (20) received a message from process (19): 5
+bypass(0) > process(20) sended to process (21)
+bypass(0) > process (21) received a message from process (20): 5
+bypass(0) > process(21) sended to process (22)
+bypass(0) > process (22) received a message from process (21): 5
+bypass(0) > process(22) sended to process (23)
+bypass(0) > process (23) received a message from process (22): 5
+bypass(0) > process(23) sended to process (24)
+bypass(0) > process (24) received a message from process (23): 5
+bypass(0) > process(24) sended to process (0)
+bypass(0) > process (0) received a message from process (24): 5
+bypass(1) > process(0) sended to process (1)
+bypass(1) > process (1) received a message from process (0): 5
+bypass(1) > process(1) sended to process (2)
+bypass(1) > process (2) received a message from process (1): 5
+bypass(1) > process(2) sended to process (3)
+bypass(1) > process (3) received a message from process (2): 5
+bypass(1) > process(3) sended to process (4)
+bypass(1) > process (4) received a message from process (3): 5
+bypass(1) > process(4) sended to process (5)
+bypass(1) > process (5) received a message from process (4): 5
+bypass(1) > process(5) sended to process (6)
+bypass(1) > process (6) received a message from process (5): 5
+bypass(1) > process(6) sended to process (7)
+bypass(1) > process (7) received a message from process (6): 5
+bypass(1) > process(7) sended to process (8)
+bypass(1) > process (8) received a message from process (7): 5
+bypass(1) > process(8) sended to process (9)
+bypass(1) > process (9) received a message from process (8): 5
+bypass(1) > process(9) sended to process (10)
+bypass(1) > process (10) received a message from process (9): 5
+bypass(1) > process (11) received a message from process (10): 5
+bypass(1) > process(11) sended to process (12)
+bypass(1) > process(10) sended to process (11)
+bypass(1) > process (12) received a message from process (11): 5
+bypass(1) > process(12) sended to process (13)
+bypass(1) > process (13) received a message from process (12): 5
+bypass(1) > process(13) sended to process (14)
+bypass(1) > process (14) received a message from process (13): 5
+bypass(1) > process(14) sended to process (15)
+bypass(1) > process (15) received a message from process (14): 5
+bypass(1) > process(15) sended to process (16)
+bypass(1) > process (16) received a message from process (15): 5
+bypass(1) > process(16) sended to process (17)
+bypass(1) > process (17) received a message from process (16): 5
+bypass(1) > process(17) sended to process (18)
+bypass(1) > process (18) received a message from process (17): 5
+bypass(1) > process(18) sended to process (19)
+bypass(1) > process (19) received a message from process (18): 5
+bypass(1) > process (20) received a message from process (19): 5
+bypass(1) > process(19) sended to process (20)
+bypass(1) > process(20) sended to process (21)
+bypass(1) > process (21) received a message from process (20): 5
+bypass(1) > process(21) sended to process (22)
+bypass(1) > process (22) received a message from process (21): 5
+bypass(1) > process(22) sended to process (23)
+bypass(1) > process (23) received a message from process (22): 5
+bypass(1) > process(23) sended to process (24)
+bypass(1) > process (24) received a message from process (23): 5
+bypass(1) > process(24) sended to process (0)
+bypass(1) > process (0) received a message from process (24): 5
+bypass(2) > process(0) sended to process (1)
+bypass(2) > process (1) received a message from process (0): 5
+bypass(2) > process(1) sended to process (2)
+bypass(2) > process (2) received a message from process (1): 5
+bypass(2) > process(2) sended to process (3)
+bypass(2) > process (3) received a message from process (2): 5
+bypass(2) > process(3) sended to process (4)
+bypass(2) > process (4) received a message from process (3): 5
+bypass(2) > process(4) sended to process (5)
+bypass(2) > process (5) received a message from process (4): 5
+bypass(2) > process(5) sended to process (6)
+bypass(2) > process (6) received a message from process (5): 5
+bypass(2) > process(6) sended to process (7)
+bypass(2) > process (7) received a message from process (6): 5
+bypass(2) > process(7) sended to process (8)
+bypass(2) > process (8) received a message from process (7): 5
+bypass(2) > process(8) sended to process (9)
+bypass(2) > process (9) received a message from process (8): 5
+bypass(2) > process(9) sended to process (10)
+bypass(2) > process (10) received a message from process (9): 5
+bypass(2) > process(10) sended to process (11)
+bypass(2) > process (11) received a message from process (10): 5
+bypass(2) > process(11) sended to process (12)
+bypass(2) > process (12) received a message from process (11): 5
+bypass(2) > process(12) sended to process (13)
+bypass(2) > process (13) received a message from process (12): 5
+bypass(2) > process(13) sended to process (14)
+bypass(2) > process (14) received a message from process (13): 5
+bypass(2) > process(14) sended to process (15)
+bypass(2) > process (15) received a message from process (14): 5
+bypass(2) > process(15) sended to process (16)
+bypass(2) > process (16) received a message from process (15): 5
+bypass(2) > process(16) sended to process (17)
+bypass(2) > process (17) received a message from process (16): 5
+bypass(2) > process(17) sended to process (18)
+bypass(2) > process (18) received a message from process (17): 5
+bypass(2) > process(18) sended to process (19)
+bypass(2) > process (19) received a message from process (18): 5
+bypass(2) > process(19) sended to process (20)
+bypass(2) > process (20) received a message from process (19): 5
+bypass(2) > process(20) sended to process (21)
+bypass(2) > process (21) received a message from process (20): 5
+bypass(2) > process(21) sended to process (22)
+bypass(2) > process (22) received a message from process (21): 5
+bypass(2) > process(22) sended to process (23)
+bypass(2) > process (23) received a message from process (22): 5
+bypass(2) > process(23) sended to process (24)
+bypass(2) > process (24) received a message from process (23): 5
+bypass(2) > process(24) sended to process (0)
+bypass(2) > process (0) received a message from process (24): 5
+bypass(3) > process(0) sended to process (1)
+bypass(3) > process (1) received a message from process (0): 5
+bypass(3) > process(1) sended to process (2)
+bypass(3) > process (2) received a message from process (1): 5
+bypass(3) > process(2) sended to process (3)
+bypass(3) > process (3) received a message from process (2): 5
+bypass(3) > process(3) sended to process (4)
+bypass(3) > process (4) received a message from process (3): 5
+bypass(3) > process(4) sended to process (5)
+bypass(3) > process (5) received a message from process (4): 5
+bypass(3) > process(5) sended to process (6)
+bypass(3) > process (6) received a message from process (5): 5
+bypass(3) > process(6) sended to process (7)
+bypass(3) > process (7) received a message from process (6): 5
+bypass(3) > process(7) sended to process (8)
+bypass(3) > process (8) received a message from process (7): 5
+bypass(3) > process(8) sended to process (9)
+bypass(3) > process (9) received a message from process (8): 5
+bypass(3) > process(9) sended to process (10)
+bypass(3) > process (10) received a message from process (9): 5
+bypass(3) > process(10) sended to process (11)
+bypass(3) > process (11) received a message from process (10): 5
+bypass(3) > process(11) sended to process (12)
+bypass(3) > process (12) received a message from process (11): 5
+bypass(3) > process(12) sended to process (13)
+bypass(3) > process (13) received a message from process (12): 5
+bypass(3) > process(13) sended to process (14)
+bypass(3) > process (14) received a message from process (13): 5
+bypass(3) > process(14) sended to process (15)
+bypass(3) > process (15) received a message from process (14): 5
+bypass(3) > process(15) sended to process (16)
+bypass(3) > process (16) received a message from process (15): 5
+bypass(3) > process(16) sended to process (17)
+bypass(3) > process (17) received a message from process (16): 5
+bypass(3) > process(17) sended to process (18)
+bypass(3) > process (18) received a message from process (17): 5
+bypass(3) > process(18) sended to process (19)
+bypass(3) > process (19) received a message from process (18): 5
+bypass(3) > process(19) sended to process (20)
+bypass(3) > process (20) received a message from process (19): 5
+bypass(3) > process(20) sended to process (21)
+bypass(3) > process (21) received a message from process (20): 5
+bypass(3) > process(21) sended to process (22)
+bypass(3) > process (22) received a message from process (21): 5
+bypass(3) > process(22) sended to process (23)
+bypass(3) > process (23) received a message from process (22): 5
+bypass(3) > process(23) sended to process (24)
+bypass(3) > process (24) received a message from process (23): 5
+bypass(3) > process(24) sended to process (0)
+bypass(3) > process (0) received a message from process (24): 5
+bypass(4) > process(0) sended to process (1)
+bypass(4) > process (1) received a message from process (0): 5
+bypass(4) > process (2) received a message from process (1): 5
+bypass(4) > process(1) sended to process (2)
+bypass(4) > process(2) sended to process (3)
+bypass(4) > process (3) received a message from process (2): 5
+bypass(4) > process(3) sended to process (4)
+bypass(4) > process (4) received a message from process (3): 5
+bypass(4) > process(4) sended to process (5)
+bypass(4) > process (5) received a message from process (4): 5
+bypass(4) > process(5) sended to process (6)
+bypass(4) > process (6) received a message from process (5): 5
+bypass(4) > process (7) received a message from process (6): 5
+bypass(4) > process(6) sended to process (7)
+bypass(4) > process(7) sended to process (8)
+bypass(4) > process (8) received a message from process (7): 5
+bypass(4) > process(8) sended to process (9)
+bypass(4) > process (9) received a message from process (8): 5
+bypass(4) > process(9) sended to process (10)
+bypass(4) > process (10) received a message from process (9): 5
+bypass(4) > process(10) sended to process (11)
+bypass(4) > process (11) received a message from process (10): 5
+bypass(4) > process(11) sended to process (12)
+bypass(4) > process (12) received a message from process (11): 5
+bypass(4) > process(12) sended to process (13)
+bypass(4) > process (13) received a message from process (12): 5
+bypass(4) > process(13) sended to process (14)
+bypass(4) > process (14) received a message from process (13): 5
+bypass(4) > process(14) sended to process (15)
+bypass(4) > process (15) received a message from process (14): 5
+bypass(4) > process(15) sended to process (16)
+bypass(4) > process (16) received a message from process (15): 5
+bypass(4) > process(16) sended to process (17)
+bypass(4) > process (17) received a message from process (16): 5
+bypass(4) > process (18) received a message from process (17): 5
+bypass(4) > process(18) sended to process (19)
+bypass(4) > process (19) received a message from process (18): 5
+bypass(4) > process(19) sended to process (20)
+bypass(4) > process(17) sended to process (18)
+bypass(4) > process (20) received a message from process (19): 5
+bypass(4) > process(20) sended to process (21)
+bypass(4) > process (21) received a message from process (20): 5
+bypass(4) > process(21) sended to process (22)
+bypass(4) > process (22) received a message from process (21): 5
+bypass(4) > process(22) sended to process (23)
+bypass(4) > process (23) received a message from process (22): 5
+bypass(4) > process(23) sended to process (24)
+bypass(4) > process (24) received a message from process (23): 5
+bypass(4) > process(24) sended to process (0)
+bypass(4) > process (0) received a message from process (24): 5
